@@ -1,0 +1,141 @@
+h:\my documents\visual studio 2010\Projects\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+h:\my documents\visual studio 2010\Projects\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
+h:\my documents\visual studio 2010\Projects\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+h:\my documents\visual studio 2010\Projects\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+h:\my documents\visual studio 2010\Projects\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+h:\my documents\visual studio 2010\Projects\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+H:\My Documents\Visual Studio 2010\Projects\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csprojResolveAssemblyReference.cache
+H:\My Documents\Visual Studio 2010\Projects\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+H:\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+H:\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+H:\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+H:\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+H:\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+H:\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+H:\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_Center_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\Damien\Desktop\fuckedShit\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\Damien\Desktop\fuckedShit\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\Damien\Desktop\fuckedShit\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\Damien\Desktop\fuckedShit\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\Damien\Desktop\fuckedShit\GUYTODJ1_Call_Center_DES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\fuckedShit\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\Damien\Desktop\fuckedShit\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\Damien\Desktop\fuckedShit\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Damien\Desktop\fuckedShit\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\guytodj1\Desktop\fuckedShitLatest\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\fuckedShitLatest\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\fuckedShitLatest\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\fuckedShitLatest\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\fuckedShitLatest\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\guytodj1\Desktop\fuckedShitLatest\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\guytodj1\Desktop\fuckedShitLatest\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
+C:\Users\Damien\Desktop\fuckedShitLatestGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\Damien\Desktop\fuckedShitLatestGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\Damien\Desktop\fuckedShitLatestGood\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\Damien\Desktop\fuckedShitLatestGood\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\Damien\Desktop\fuckedShitLatestGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\fuckedShitLatestGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\Damien\Desktop\fuckedShitLatestGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\Damien\Desktop\fuckedShitLatestGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Damien\Desktop\fuckedShitLatestGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetter\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetter\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetter\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetter\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetter\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetter\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetter\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOI\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOI\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgain\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgain\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgain\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgain\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgain\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgain\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgain\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGood\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGood\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGood\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUI\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUI\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUI\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUIGettingThere\GUYTODJ1_Call_Center_DES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUIGettingThere\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUIGettingThere\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUIGettingThere\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Damien\Desktop\fuckedShitLatestGoodEvenBetterBOIFuckedAgainLookingGoodWithGUIGettingThere\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\des_With_observer\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+F:\des_With_observer\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+F:\des_With_observer\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+F:\des_With_observer\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+F:\des_With_observer\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
+F:\des_With_observer\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+F:\des_With_observer\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\Damien\Desktop\des_With_observer3\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\Damien\Desktop\des_With_observer3\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\Damien\Desktop\des_With_observer3\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\Damien\Desktop\des_With_observer3\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\Damien\Desktop\des_With_observer3\GUYTODJ1_Call_Center_DES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\des_With_observer3\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\Damien\Desktop\des_With_observer3\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\Damien\Desktop\des_With_observer3\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Damien\Desktop\des_With_observer3\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_CenterDES GOODSHITCUNT\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_CenterDES GOODSHITCUNT\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_CenterDES GOODSHITCUNT\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_CenterDES GOODSHITCUNT\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_CenterDES GOODSHITCUNT\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_CenterDES GOODSHITCUNT\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+C:\Users\guytodj1\Desktop\GUYTODJ1_Call_CenterDES GOODSHITCUNT\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
+F:\GUYTODJ1_Call_CenterDES GOODSHITCUNT1\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+F:\GUYTODJ1_Call_CenterDES GOODSHITCUNT1\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+F:\GUYTODJ1_Call_CenterDES GOODSHITCUNT1\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+F:\GUYTODJ1_Call_CenterDES GOODSHITCUNT1\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+F:\GUYTODJ1_Call_CenterDES GOODSHITCUNT1\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+F:\GUYTODJ1_Call_CenterDES GOODSHITCUNT1\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+F:\GUYTODJ1_Call_CenterDES GOODSHITCUNT1\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
+F:\GUYTODJ1_Call_CenterDES GOODSHITCUNT1\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csprojResolveAssemblyReference.cache
+F:\GUYTODJ1_Call_CenterDESWorking\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+F:\GUYTODJ1_Call_CenterDESWorking\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+F:\GUYTODJ1_Call_CenterDESWorking\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+F:\GUYTODJ1_Call_CenterDESWorking\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+F:\GUYTODJ1_Call_CenterDESWorking\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csprojResolveAssemblyReference.cache
+F:\GUYTODJ1_Call_CenterDESWorking\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+F:\GUYTODJ1_Call_CenterDESWorking\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+F:\GUYTODJ1_Call_CenterDESWorking\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
+F:\GUYTODJ1_CallCenter_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.exe
+F:\GUYTODJ1_CallCenter_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.pdb
+F:\GUYTODJ1_CallCenter_DES\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.exe
+F:\GUYTODJ1_CallCenter_DES\GUYTODJ1_Call_Center_DES\bin\Debug\GUYTODJ1_Call_Center_DES.pdb
+F:\GUYTODJ1_CallCenter_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csprojResolveAssemblyReference.cache
+F:\GUYTODJ1_CallCenter_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Form1.resources
+F:\GUYTODJ1_CallCenter_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.Properties.Resources.resources
+F:\GUYTODJ1_CallCenter_DES\GUYTODJ1_Call_Center_DES\obj\x86\Debug\GUYTODJ1_Call_Center_DES.csproj.GenerateResource.Cache
